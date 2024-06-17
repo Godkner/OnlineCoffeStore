@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@coreui/react-chartjs": "^2.1.3",
+    "react-icons": "^4.9.0"
+  }
+}
